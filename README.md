@@ -32,8 +32,5 @@ data/: Directorio donde se pueden colocar los archivos de matrices de entrada.
 El proyecto incluye pruebas unitarias para garantizar la funcionalidad correcta de la aplicación. Estas pruebas utilizan el framework JUnit 4.
 Para ejecutar las pruebas unitarias, asegúrate de tener JUnit 4 en tu classpath y ejecuta el siguiente comando en el directorio raíz del proyecto:
 java -cp bin:test org.junit.runner.JUnitCore MatrixCalculatorTest
-Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar la aplicación o agregar nuevas características, no dudes en enviar una solicitud de pull.
-Para ejecutar las pruebas unitarias, asegúrate de tener JUnit 4 en tu classpath y ejecuta el siguiente comando en el directorio raíz del proyecto:
-java -cp bin:test org.junit.runner.JUnitCore MatrixCalculatorTest
+
 
